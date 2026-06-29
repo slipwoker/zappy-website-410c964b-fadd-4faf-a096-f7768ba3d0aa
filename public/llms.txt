@@ -1,0 +1,70 @@
+# מכירת חיסול אוזניות Boss — Generative Engine Optimization Map
+
+> A one-day flash sale landing page for Boss headphones. The page is designed to create urgency and drive immediate purchases, featuring a limited-time promotional offer on Boss audio headphones. The brand Boss is associated with premium audio quality and bold design.
+
+---
+
+## Pages
+
+### דף הבית
+https://boss-410c964b.zappy5.app
+מבצע בזק ליום אחד על אוזניות Boss מעולות! איכות שמע מושלמת ועיצוב נועז במחירי חיסול. אל תפספסו את ההזדמנות להפוך כל האזנה לחוויה יוצאת דופן. מהרו לרכוש!
+
+### תודה רבה | מכירת חיסול אוזניות Boss
+https://boss-410c964b.zappy5.app/thank-you
+תודה על פנייתך. ההודעה שלך התקבלה בהצלחה וצוות המומחים שלנו לציוד שמע לבית יחזור אליך בהקדם האפשרי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://boss-410c964b.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://boss-410c964b.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://boss-410c964b.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://boss-410c964b.zappy5.app
+- Endpoint: https://boss-410c964b.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `full_name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מכירת חיסול אוזניות Boss
+A one-day flash sale landing page for Boss headphones. The page is designed to create urgency and drive immediate purchases, featuring a limited-time promotional offer on Boss audio headphones. The brand Boss is associated with premium audio quality and bold design.
+
+## Target Audience
+- חובבי טכנולוגיה
+- חובבי מוזיקה מושבעים
+- גיימרים
+
+## Industry
+Electronics / Audio Equipment
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://boss-410c964b.zappy5.app/sitemap.xml
+- Robots: https://boss-410c964b.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://boss-410c964b.zappy5.app/llms-full.txt
